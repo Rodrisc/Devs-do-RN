@@ -9,11 +9,7 @@
 
 </head>
 <body>
-
     <h1>Cadastro de valor e anuidade</h1>
-
-    
-
     <form action="/model/cadastrarAnuidade.php" method="POST">
         <input type="number" placeholder="Valor da anuidade" name="anuidade">
         <input type="number" placeholder="Ano da anuidade" name="ano">

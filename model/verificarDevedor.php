@@ -15,14 +15,7 @@ function verificarDevedor(){
     }
 
     $opcao = $_POST['opcao'];
-    // echo $opcao;
     query($pdo, $opcao);
-
-    // if($opcao == 'não'){
-    //     query($pdo, 'não');
-    // }
-    // if($opcao == 'sim')
-
 
 }
 

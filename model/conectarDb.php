@@ -13,7 +13,7 @@ function conectarDb()
         return $pdo;
     } catch (PDOException $e) {
         // echo 'falha ao se conectar';
-        die($e->getMessage());
         return 'falha ao se conectar com o bd' . $e;
+        die($e->getMessage());
     }
 }
