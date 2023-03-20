@@ -38,7 +38,4 @@ http://localhost:8000/views/index/index.php
 Se tudo ocorrer bem e o banco de dados estiver ativo, vc conseguirar fazer tudo o que está disponivel na aplicação
 
 
-#INFELIZMENTE NO MOMENTO A APLICAÇÃO NÃO TEM CONTROLE DE ERROS.
-
-
 
