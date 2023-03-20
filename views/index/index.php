@@ -12,7 +12,7 @@
 
     <a href="/views/mostrarAssociados.php">visualizar todos os associados</a>
     <a href="../cadastroAssociado/cadastro.php">Cadastrar associado</a>
-    <a href="../cadastroAnuidade/ValoreAnuidade.php">Cadastrar anuidade</a>
+    <a href="../cadastrarAnuidade/cadastrarAnuidade.php">Cadastrar anuidade</a>
     <a href="../alterarAnuidade/alterarAnuidade.php">Alterar valor anuidade</a>
     <a href="../verificarDevedor/verificarDevedor.php">Verificar pagador e devedor</a>
     
